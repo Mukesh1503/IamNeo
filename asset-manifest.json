@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mukesh1503/static/css/main.5ed16c21.css",
+    "main.js": "/Mukesh1503/static/js/main.6fadca9f.js",
+    "index.html": "/Mukesh1503/index.html",
+    "main.5ed16c21.css.map": "/Mukesh1503/static/css/main.5ed16c21.css.map",
+    "main.6fadca9f.js.map": "/Mukesh1503/static/js/main.6fadca9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ed16c21.css",
+    "static/js/main.6fadca9f.js"
+  ]
+}
